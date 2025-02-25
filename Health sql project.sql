@@ -5,7 +5,7 @@ create database healthcare;
 use healthcare;
 describe healthcare_dataset;
 select * from healthcare_dataset;
-rename table healthcare_dataset2 to health;
+rename table healthcare_dataset to health;
 alter table health add column Patient_Id int primary key auto_increment first; 
 select * from health;
 
