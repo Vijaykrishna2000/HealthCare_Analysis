@@ -1,6 +1,6 @@
 # 🏥 Healthcare Data Analysis - SQL Project  
 
-- ![Uploading image.png…]()
+- ![hcp](https://github.com/user-attachments/assets/6721070d-cbc2-4a87-a20f-f7e04cebcfe1)
 
 
 ## 📌 Project Description  
