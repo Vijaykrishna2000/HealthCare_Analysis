@@ -1,5 +1,8 @@
 # 🏥 Healthcare Data Analysis - SQL Project  
 
+- ![Uploading image.png…]()
+
+
 ## 📌 Project Description  
 This project focuses on **Healthcare Data Analysis** using SQL. The objective is to analyze patient records, hospital data, and medical trends to derive actionable insights. By using **SQL queries**, this project extracts valuable information such as patient demographics, disease prevalence, hospital performance, and treatment effectiveness.
 
